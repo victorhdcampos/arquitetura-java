@@ -1,0 +1,16 @@
+PC;302547;joao das couves;M;98;1.80;01/01/2000;20756070;111.111.111-11;2111111-1111;Bradesco;111222333444;31/12/2025
+RI;dipirona 500mg;1;cp;2x ao dia
+RI;concor 2,5mg;3;cp;1x ao dia
+R;29/10/2024;29/11/2024;dr jonatas
+PP;325874;maria das couves;F;70;1.65;01/02/2003;20730000;222.222.222-22;2122222-2222;Cartao Credito;Irmao
+RI;mioflex a 250mg;1;cp;a cada 8h
+R;30/10/2024;30/11/2024;dr monica
+PR;315847;tereza barros;F;65;1.70;15/07/1985;21235603;333.333.333-33;2133333-3333;95S214G23T807;25/10/2024;Consulta;SISREG
+RI;tamoxifeno 50mg;2;cp;dsdn
+RI;anastrozol 1mg;1;cp;dsdn
+R;15/10/2024;15/11/2024;dr jessica
+PC;299954;claudio resende;M;85;1.75;25/03/1980;20210030;444.444.444-44;2144444-4444;Unimed;98563257414;15/10/2026
+RI;cloridrato de tramadol 50mg;2;cp;3x ao dia
+R;18/10/2024;18/11/2024;dr leonardo
+
+
